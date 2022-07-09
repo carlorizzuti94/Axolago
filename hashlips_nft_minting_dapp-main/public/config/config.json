@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0x2aBF7FEF93C99a1Ec2A672860A33ee1B53ef394E",
   "SCAN_LINK": "https://ropsten.etherscan.io/address/0x2abf7fef93c99a1ec2a672860a33ee1b53ef394e",
   "NETWORK": {
-    "NAME": "Ropsten",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 3
+    "ID": 4
   },
   "NFT_NAME": "Axolago",
   "SYMBOL": "AXLG",
