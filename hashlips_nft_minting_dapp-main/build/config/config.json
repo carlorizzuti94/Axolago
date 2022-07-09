@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2aBF7FEF93C99a1Ec2A672860A33ee1B53ef394E",
+  "SCAN_LINK": "https://ropsten.etherscan.io/address/0x2abf7fef93c99a1ec2a672860a33ee1b53ef394e",
+  "NETWORK": {
+    "NAME": "Ropsten",
+    "SYMBOL": "ETH",
+    "ID": 3
+  },
+  "NFT_NAME": "Axolago",
+  "SYMBOL": "AXLG",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 00000000000000000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/axolago",
+  "SHOW_BACKGROUND": true
+}
